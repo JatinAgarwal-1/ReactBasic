@@ -12,6 +12,19 @@ import './AvatarList.css'
 // };
 
 class Avatar extends Component {
+    constructor() {
+        super();
+        this.state = {
+            head: "Welcome To React Basic"
+        }
+    };
+
+    changeHead() {
+        this.setState({
+            head: "Time To Learn Advance"
+        })
+    }
+
     render() {
         const array = [
             {
@@ -35,9 +48,9 @@ class Avatar extends Component {
             return <AvatarList name={array[i].name1} work={array[i].work} />
         })
         return (<div >
-            <h1 className='tc' >Welcome To React Basic</h1>
+            <h1 className='tc' >{this.state.head}</h1>
             {arrayList}
-            <button className='ma3'>OK</button>
+            <button onClick={() => this.changeHead()} className='ma3'>OK</button>
         </div>)
 
     }
