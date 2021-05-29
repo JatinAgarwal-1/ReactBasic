@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
+// import Demo from './Demo'
 import reportWebVitals from './reportWebVitals';
+import Avatar from './Avatar';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Avatar />
   </React.StrictMode>,
   document.getElementById('root')
 );
