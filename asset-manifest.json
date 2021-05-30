@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactBasic/static/css/main.ed4a6486.chunk.css",
+    "main.js": "/ReactBasic/static/js/main.841f4e33.chunk.js",
+    "main.js.map": "/ReactBasic/static/js/main.841f4e33.chunk.js.map",
+    "runtime-main.js": "/ReactBasic/static/js/runtime-main.03e6a6a2.js",
+    "runtime-main.js.map": "/ReactBasic/static/js/runtime-main.03e6a6a2.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ReactBasic/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ccc45185.chunk.js": "/ReactBasic/static/js/2.ccc45185.chunk.js",
+    "static/js/2.ccc45185.chunk.js.map": "/ReactBasic/static/js/2.ccc45185.chunk.js.map",
+    "static/js/3.38ee9cb1.chunk.js": "/ReactBasic/static/js/3.38ee9cb1.chunk.js",
+    "static/js/3.38ee9cb1.chunk.js.map": "/ReactBasic/static/js/3.38ee9cb1.chunk.js.map",
+    "index.html": "/ReactBasic/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ReactBasic/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.ed4a6486.chunk.css.map": "/ReactBasic/static/css/main.ed4a6486.chunk.css.map",
+    "static/js/2.ccc45185.chunk.js.LICENSE.txt": "/ReactBasic/static/js/2.ccc45185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03e6a6a2.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ccc45185.chunk.js",
+    "static/css/main.ed4a6486.chunk.css",
+    "static/js/main.841f4e33.chunk.js"
+  ]
+}
